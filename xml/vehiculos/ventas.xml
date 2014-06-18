@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- ventas de vehiculos -->
+<!DOCTYPE ventas SYSTEM "vehiculos.dtd">
+<ventas>
+    <vehiculo>
+        <marca modelo="M3">BMW</marca>
+        <tipo>Berlina</tipo>
+        <combustible>Diesel</combustible>
+        <potencia>150cv</potencia>
+        <matriculacion>2003</matriculacion>
+        <puertas>5</puertas>
+        <color>Negro</color>
+        <cambio>Manual</cambio>
+        <precio>6000</precio>
+        <vendedor>Particular</vendedor>
+        <foto url="">BMW M3</foto>
+    </vehiculo>
+    
+    <vehiculo>
+        <marca modelo="A4">Audi</marca>
+        <tipo>Berlina</tipo>
+        <combustible>Diesel</combustible>
+        <potencia>150cv</potencia>
+        <matriculacion>2005</matriculacion>
+        <puertas>5</puertas>
+        <color>Gris</color>
+        <cambio>Manual</cambio>
+        <precio>6500</precio>
+        <vendedor>Particular</vendedor>
+        <foto url="">Audi A4</foto>
+    </vehiculo>
+    
+    <vehiculo>
+        <marca modelo="Punto">Fiat</marca>
+        <tipo>Berlina</tipo>
+        <combustible>Diesel</combustible>
+        <potencia>105cv</potencia>
+        <matriculacion>2007</matriculacion>
+        <puertas>3</puertas>
+        <color>Azul</color>
+        <cambio>Manual</cambio>
+        <precio>5600</precio>
+        <vendedor>Particular</vendedor>
+        <foto url="">Fiat Punto</foto>
+    </vehiculo>
+    
+    <vehiculo>
+        <marca modelo="Leon">Seat</marca>
+        <tipo>Berlina</tipo>
+        <combustible>Diesel</combustible>
+        <potencia>170cv</potencia>
+        <matriculacion>2011</matriculacion>
+        <puertas>5</puertas>
+        <color>Rojo</color>
+        <cambio>Manual</cambio>
+        <precio>21000</precio>
+        <vendedor>Particular</vendedor>
+        <foto url="">Seat Leon</foto>
+    </vehiculo>
+    
+    <vehiculo>
+        <marca modelo="Clase C">Mercedes</marca>
+        <tipo>Berlina</tipo>
+        <combustible>Diesel</combustible>
+        <potencia>192cv</potencia>
+        <matriculacion>2009</matriculacion>
+        <puertas>5</puertas>
+        <color>Naranja</color>
+        <cambio>Manual</cambio>
+        <precio>24000</precio>
+        <vendedor>Particular</vendedor>
+        <foto url="">Mercedes Clase C</foto>
+    </vehiculo>
+</ventas>

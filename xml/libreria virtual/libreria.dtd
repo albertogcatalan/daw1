@@ -1,0 +1,16 @@
+<!ELEMENT autor ( #PCDATA ) >
+<!ELEMENT descuento EMPTY >
+<!ATTLIST descuento cantidad CDATA #REQUIRED >
+<!ELEMENT disponible EMPTY >
+<!ATTLIST disponible tiempo CDATA #REQUIRED >
+<!ATTLIST disponible unidad CDATA #REQUIRED >
+<!ELEMENT enlacelibro EMPTY >
+<!ATTLIST enlacelibro href CDATA #REQUIRED >
+<!ELEMENT formato ( #PCDATA ) >
+<!ELEMENT libro ( titulo | disponible | autor | formato |
+publicacion | precio | descuento | enlacelibro )* >
+<!ELEMENT precio EMPTY >
+<!ATTLIST precio cantidad CDATA #REQUIRED >
+<!ATTLIST precio moneda CDATA #REQUIRED >
+<!ELEMENT publicacion ( #PCDATA ) >
+<!ELEMENT titulo ( #PCDATA ) >

@@ -1,0 +1,44 @@
+img {
+	border:0px;
+}
+body {
+	margin:0;
+	padding:0;
+	width:100%;
+	color:#6d6d6d;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 12px;
+}
+table {
+	margin:0 auto;
+	width:85%;
+	border: 1px solid;
+	padding:5px;
+}
+
+table th {
+	font-size:20px;
+	padding-bottom:10px;
+}
+
+table td {
+	padding-bottom:20px;
+	text-align: center;
+}
+
+p {
+	padding-top: 5px;
+}
+
+td p{
+	margin-left:50px;
+	text-align:left;
+}
+
+h1 {
+    text-align: center;
+    font-size:24px;   
+  }
+h2 {
+	text-align: center;
+}

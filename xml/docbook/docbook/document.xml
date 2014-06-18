@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0">
+    <info>
+        <title>Python: Lenguaje de alto nivel</title>
+        <author>
+            <personname>Alberto González</personname>
+            <email>alberto.abelabs@gmail.com</email>
+        </author>
+    </info>
+    
+   
+    <sect1>
+        <title>¿Qué es Python?</title>
+        <subtitle>Introducción</subtitle>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="python-logo.gif"/>
+                </imageobject>
+            </inlinemediaobject>
+            <emphasis role="bold">Python</emphasis> es un lenguaje de
+            programación creado por Guido van Rossum a principios de los años 90 cuyo nombre está
+            inspirado en el grupo de cómicos ingleses “Monty Python”. Es un lenguaje similar a Perl,
+            pero con una sintaxis muy limpia y que favorece un código legible. Se trata de un
+            lenguaje interpretado o de script, con tipado dinámico, fuertemente tipado,
+            multiplataforma y orientado a objetos.
+        </para>
+        
+    </sect1>
+    <sect1>
+        <title>¿Por qué Python?</title>
+        <para>Python es un lenguaje que todo el mundo debería conocer. Su sintaxis simple, clara y
+            sencilla; el tipado dinámico, el gestor de memoria, la gran cantidad de librerías
+            disponibles y la potencia del lenguaje, entre otros, hacen que desarrollar una
+            aplicación en Python sea sencillo, muy rápido y, lo que es más importante, divertido. La
+            sintaxis de Python es tan sencilla y cercana al lenguaje natural que Introducción 9 los
+            programas elaborados en Python parecen pseudocódigo. Por este motivo se trata además de
+            uno de los mejores lenguajes para comenzar a programar. Python no es adecuado sin
+            embargo para la programación de bajo nivel o para aplicaciones en las que el rendimiento
+            sea crítico. Algunos casos de éxito en el uso de Python son <emphasis role="italic"
+                >Google, Yahoo, la NASA, Industrias Light Magic</emphasis>, y todas las
+            distribuciones Linux, en las que Python cada vez representa un tanto por ciento mayor de
+            los programas disponibles.</para>
+    </sect1>
+    <sect1>
+        <title>Mi primer programa en python</title>
+        <para>Como comentábamos en el capítulo anterior existen dos formas de 
+            ejecutar código Python, bien en una sesión interactiva (línea a línea) 
+            con el intérprete, o bien de la forma habitual, escribiendo el código en 
+            un archivo de código fuente y ejecutándolo.
+            El primer programa que vamos a escribir en Python es el clásico Hola 
+            Mundo, y en este lenguaje es tan simple como:
+            print “Hola Mundo”
+            Vamos a probarlo primero en el intérprete. Ejecuta python o ipython 
+            según tus preferencias, escribe la línea anterior y pulsa Enter.
+            El intérprete responderá mostrando en la consola el texto Hola Mundo.</para>
+    </sect1>
+    <sect1>
+        <title>Tipos básicos</title>
+        <para>En Python los tipos básicos se dividen en:<itemizedlist>
+                <listitem>
+                    <para>Números, como pueden ser 3 (entero), 15.57 (de coma flotante) o 7 + 5j
+                        (complejos)</para>
+                    <para>Cadenas de texto, como “Hola Mundo” </para>
+                    <para>Valores booleanos: True (cierto) y False
+                        (falso)</para>
+                </listitem>
+            </itemizedlist>
+        </para>
+    </sect1>
+</article>

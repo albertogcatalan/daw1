@@ -1,0 +1,11 @@
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.xml
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\WindowsApplication1.frmCalc.resources
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.exe
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.xml
+C:\Users\Alberto\documents\visual studio 2010\Projects\Calculadora\Calculadora\obj\x86\Debug\Calculadora.pdb

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="peliculas.xslt" ?>
+<movieDB>
+	<movie>
+		<title>The Devil's Advocate</title>
+		<still>devilsAdvocate.jpg</still>
+		<year>1997</year>
+		<producer>
+			<name>Warner Bros</name>
+		</producer>
+		<producer>
+			<name>Warner Bros2</name>
+		</producer>
+		<director>
+			<forename>Taylor</forename>
+			<surname>Hackford</surname>
+			<sex>M</sex>
+			<birthdate>1945-12-31</birthdate>
+			<picture>hackford.gif</picture>
+		</director>
+		<actor>
+			<forename>Keanu</forename>
+			<surname>Reeves</surname>
+			<sex>M</sex>
+			<birthdate>1964-09-02</birthdate>
+			<picture>reeves.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Alfredo</forename>
+			<surname>Pacino</surname>
+			<sex>M</sex>
+			<birthdate>1940-04-10</birthdate>
+			<picture>alPacino.gif</picture>
+		</actor>
+		<actor>
+			<forename>Charlize</forename>
+			<surname>Theron</surname>
+			<sex>F</sex>
+			<birthdate>1975-08-07</birthdate>
+			<picture>theron.gif</picture>
+		</actor>
+	</movie>
+	<movie>
+		<title>The fifth Element</title>
+		<still>fifthElement.gif</still>
+		<year>1997</year>
+		<producer>
+			<name>Columbia Pictures Industries Inc.</name>
+		</producer>
+		<director>
+			<forename>Luc</forename>
+			<surname>Besson</surname>
+			<sex>M</sex>
+			<picture>besson.jpg</picture>
+		</director>
+		<actor>
+			<forename>Mila</forename>
+			<surname>Jovovich</surname>
+			<sex>F</sex>
+			<birthdate>1975-12-17</birthdate>
+			<picture>jovovich.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Bruce</forename>
+			<surname>Willis</surname>
+			<sex>M</sex>
+			<birthdate>1955-03-19</birthdate>
+			<picture>willis.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Chris</forename>
+			<surname>Tucker</surname>
+			<sex>M</sex>
+			<birthdate>1972-08-31</birthdate>
+			<picture>tucker.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Gary</forename>
+			<surname>Oldman</surname>
+			<sex>M</sex>
+			<birthdate>1958-03-21</birthdate>
+			<picture>oldman.jpg</picture>
+		</actor>
+	</movie>
+	<movie>
+		<title>The Big Lebowski</title>
+		<still>lebowski.jpg</still>
+		<year>1998</year>
+		<producer>
+			<name>Bitter Creek Productions</name>
+		</producer>
+		<producer>
+			<name>Other producer</name>
+		</producer>
+		<producer>
+			<name>Yet another producer</name>
+		</producer>
+		<director>
+			<forename>Joel</forename>
+			<surname>Coen</surname>
+			<sex>M</sex>
+			<birthdate>1954-11-29</birthdate>
+			<picture>coen.jpg</picture>
+		</director>
+		<actor>
+			<forename>Jeff</forename>
+			<surname>Bridges</surname>
+			<sex>M</sex>
+			<birthdate>1949-12-04</birthdate>
+			<picture>bridges.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Julianne</forename>
+			<surname>Moore</surname>
+			<sex>F</sex>
+			<birthdate>1960-12-03</birthdate>
+			<picture>moore.jpg</picture>
+		</actor>
+		<actor>
+			<forename>John</forename>
+			<surname>Goodman</surname>
+			<sex>M</sex>
+			<birthdate>1952-06-20</birthdate>
+			<picture>goodman.jpg</picture>
+		</actor>
+		<actor>
+			<forename>Steve</forename>
+			<surname>Buscemi</surname>
+			<sex>M</sex>
+			<picture>buscemi.jpg</picture>
+		</actor>
+	</movie>
+</movieDB>

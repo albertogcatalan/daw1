@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<article xmlns="http://docbook.org/ns/docbook"
+    xmlns:xlink="http://www.w3.org/1999/xlink" version="5.0" xml:lang="es">
+    <info>
+        <title>Libro Electrónico </title>
+        <author>
+            <personname>Miguel Ángel Merín, Ulises Freitas, Alberto González</personname>
+			<email>miguel23_ejea@yahoo.es, alberto.abelabs@gmail.com, ulises.freitas@gmail.com</email>
+        </author>
+    </info>
+
+	<sect1>
+        <title>CPI Los Enlaces (Centro Integrado)</title>
+        <subtitle>Historia</subtitle>
+        <para>
+			<inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="fotoprincipal.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+        <para>
+		El centro de “Los Enlaces” comenzó a funcionar en el curso 1985-86 como centro de Formación Profesional. Su puesta en marcha responde a la preocupación de la Administración (Ministerio de Educación y Ciencia, por entonces) por expandir este tipo de enseñanzas en Zaragoza y coincide con la apertura de otros centros de F.P en la ciudad. 
+		</para>
+		<para>
+		Se impartían las enseñanzas correspondientes a Primer Grado de las Ramas de Peluquería, Imagen y Sonido, Administrativo y Electricidad-Electrónica. En Segundo grado Medios audiovisuales, Informática de Gestión e Instrumentación y control. (Enseñanzas en Régimen General y Especializadas).
+		</para>
+		<para>
+		A partir del curso 1996-97 se inicia una nueva andadura con la implantación de la LOGSE. Impartimos desde entonces ESO, Bachillerato y Formación Profesional (Familias Profesional de Electrónica, Comercio y Marketing, Informática, y Comunicación, Imagen y Sonido). Un nuevo reto que el Instituto emprende con obras de remodelación para dar cabida a los nuevos alumnos y adaptarlo a las nuevas enseñanzas del Curriculum.
+		</para>
+		<para>
+		La relación con las empresas de la zona, heredada de las antiguas "Prácticas en alternancia", toma un nuevo rumbo, al entrar a formar parte como un módulo más de las nuevas enseñanzas de Formación Profesional denominado Formación en Centros de Trabajo. Aumenta así el número de empresas con las que tenemos convenios de colaboración para la formación de nuestros alumnos de formación profesional, derivando esta situación a que muchas empresas confíen en nuestra bolsa de trabajo para la selección de sus trabajadores.
+		</para>
+		<para>
+		En el curso escolar 99-00 se inicia la participación en los Proyectos Educativos Europeos. Participamos o hemos participado en intercambios escolares con Francia, Italia, Dinamarca y con Finlandia. También se han realizado intercambios de Formación Profesional acogidos al programa Petra y Leonardo. En el año 2008 el centro apuesta por el programa Erasmus, y obtiene la Carta Erasmus. Desde el curso 2008-2009 los alumnos acceden a Becas Eramus para realizar parte de sus estancias formativas en empresas de diferentes paises (Alemania, Francia, Inglaterra, Italia...)
+		</para>
+		<para>
+		Desde el año 2007 el centro posee la certificación en calidad de todas las enseñanzas de formación rprofesional según las normas ISO 9001:2000. Nuestra Política de Calidad quiere ser un reflejo de las directrices que rigen el centro cuya meta fundamental es la mejora continua en la prestación de nuestro servicio.
+		</para>
+		<para>
+		Desde el curso 2005/06, somos uno de los cuatro centros experimentales de Enseñanza Integrada en Aragón en FP, en la rama de Logística y Comunicación. Impartimos Formación Para el Empleo, desde la formación reglada de las familias descritas, hasta formación para empleados y desempleados pasando por formación espefícia y diseñada para las empresas. Llevamos además en marcha diversos proyectos de innovación, como la creación de un vivero de empresas para nuestros alumnos de Ciclos Formativos.
+		</para>
+    </sect1>
+	<sect1>
+        <title>CPI Los Enlaces (Ubicación Geográfica)</title>
+        <subtitle>Localización</subtitle>
+        <para>
+			<inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="ubicacion_CPI.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+	</sect1>
+	
+    <sect1>
+        <title>Familias Profesionales</title>
+		<table frame="all">
+                <title/>
+                <tgroup cols="4">
+                    <colspec colname="col1" colnum="1" colwidth="1.0*"/>
+                    <colspec colname="col2" colnum="2" colwidth="1.0*"/>
+                    <colspec colname="col3" colnum="3" colwidth="1.0*"/>
+                    <colspec colname="col4" colnum="4" colwidth="1.0*"/>
+                    <thead>
+                        <row>
+                            <entry>Comercio y marketing</entry>
+                            <entry>Comunicación, imagen y sonido</entry>
+                            <entry>Electricidad y electrónica</entry>
+                            <entry>Informática</entry>
+                        </row>
+                    </thead>
+                    <tbody>
+                        <row>
+                            <entry>Ciclo de Grado Medio de Comercio</entry>
+                            <entry>Ciclo de Grado Medio de Laboratorio de Imagen</entry>
+							<entry>Ciclo de Grado Superior de Sistemas de telecomunicación e informáticos</entry>
+                            <entry>Ciclo de Grado Medio de Sistemas microinformáticos y redes</entry>
+                        </row>
+                        <row>
+                            <entry>Ciclo de Grado Superior de Gestión de Transporte</entry>
+                            <entry>Ciclo de Grado Superior de Imagen</entry>
+                            <entry></entry>
+							<entry>Ciclo de Grado Superior de Administración de sistemas informáticos en red</entry>
+                        </row>
+                        <row>
+                            <entry></entry>
+                            <entry>Ciclo de Grado Superior Realización de Audiovisuales y Espectáculos</entry>
+                            <entry></entry>
+							<entry>Ciclo de Grado Superior de Desarrollo de aplicaciones multiplataforma</entry>
+                        </row>
+						<row>
+                            <entry></entry>
+                            <entry></entry>
+                            <entry></entry>
+							<entry>Ciclo de Grado Superior de Desarrollo de aplicaciones web</entry>
+                        </row>
+                    </tbody>
+                </tgroup>
+            </table>
+    </sect1>
+	
+    <sect1>
+        <title>Comercio y marketing</title>
+		<subtitle>Ciclo medio</subtitle>
+		<sect2><title>Duración: 1.400 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Ejecutar los planes de actuación establecidos para la comercialización de productos y/o servicios en las mejores condiciones de calidad, tiempo, lugar y precio y administrar y gestionar un pequeño establecimiento comercial.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="comercio.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Animación del punto de venta</listitem>
+				<listitem>Operaciones de venta</listitem>
+				<listitem>Operaciones de almacenaje</listitem>
+				<listitem>Administración y gestión de un pequeño establecimiento comercial</listitem>
+				<listitem>Aplicaciones informáticas de propósito general</listitem>
+				<listitem>Lengua extranjera: Inglés</listitem>
+				<listitem>Formación y orientación laboral</listitem>
+				<listitem>Relaciones en el equipo de trabajo</listitem>
+				<listitem>Formación Centros de Trabajo:</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Comerciante</listitem>
+				<listitem>Empleado de reposición</listitem>
+				<listitem>Dependiente en general</listitem>
+				<listitem>Encargado de tienda</listitem>
+				<listitem>Vendedor técnico</listitem>
+				<listitem>Representante comercial</listitem>
+				<listitem>Jefe de caja</listitem>
+				<listitem>Empleado de atención al cliente</listitem>
+				<listitem>Almacenista</listitem>
+				<listitem>Empleado de agencias comerciales</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+	
+    <sect1>
+        <title>Gestión de Transporte </title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2.000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Gestionar y comercializar el servicio de transporte de mercancías y viajeros de acuerdo con especificaciones recibidas y organizar y planificar la explotación de las operaciones terrestres en el ámbito nacional e internacional y en el marco de los objetivos y procesos establecidos. Este técnico actuará, en todo caso, bajo la supervisión de Licenciados y Diplomados.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="transporte.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Organización del servicio de transporte</listitem>
+				<listitem>Almacenaje de productos</listitem>
+				<listitem>Lengua extranjera: inglés </listitem>
+				<listitem>Aplicaciones informáticas de propósito general</listitem>
+				<listitem>Relaciones en el entorno de trabajo </listitem>
+				<listitem>Formación y Orientación laboral </listitem>
+				<listitem>Gestión administrativa de transporte </listitem>
+				<listitem>Planificación y Gestión de la explotación del transporte terrestre</listitem>
+				<listitem>Comercialización del servicio de transporte</listitem>
+				<listitem>Gestión administrativa del comercio internacional </listitem>
+				<listitem>Formación en Centros de Trabajo </listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Jefe de Tráfico y Jefe de circulación </listitem>
+				<listitem>Transitarios </listitem>
+				<listitem>Agente comercial </listitem>
+				<listitem>Consignatario marítimo </listitem>
+				<listitem>Jefe de administración en transporte terrestre, aéreo, marítimo, y/o multimodal </listitem>
+				<listitem>Jefe de almacén </listitem>
+				<listitem>Jefe de caja</listitem>
+				<listitem>Empleado de atención al cliente</listitem>
+				<listitem>Almacenista</listitem>
+				<listitem>Empleado de agencias comerciales</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Técnico en laboratorio de imagen</title>
+		<subtitle>Ciclo Medio </subtitle>
+		<sect2><title>Duración: 1400 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>El curso de Grado Medio en Laboratorio de Imagen está destinado a la formación de profesionales expertos en el terreno de la imagen digital, fotografía digital, realización, producción y postproducción de audiovisuales. Con un programa actualizado a las demandas del mercado de hoy en día, se imparten los conocimientos para crear un perfil profesional cualificando apto para desempeñarse en diversos cargos de las empresas del sector audiovisual.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="laboratorio.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Revelado de soportes fotosensibles</listitem>
+				<listitem>Positivado, ampliación y acabados</listitem>
+				<listitem>Tratamiento de imágenes fotográficas por procedimientos digitales</listitem>
+				<listitem>Administración, gestión y comercialización en la pequeña empresa</listitem>
+				<listitem>Procesos de imagen fotográfica</listitem>
+				<listitem>Formación y orientación laboral</listitem>
+				<listitem>Formación en centro de trabajo (F.C.T)</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico Colorista en Imagen Digital</listitem>
+				<listitem>Técnico de procesado de soportes fotosensibles en color y blanco y negro</listitem>
+				<listitem>Técnico de positivado en color, blanco y negro y ampliación</listitem>
+				<listitem>Técnico de tratamiento de imágenes</listitem>
+				<listitem>Técnico de laboratorio de imagen</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Técnico superior en imagen</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>En este ciclo superior aprenderás a: definir y obtener imágenes fijas o móviles, en cualquier soporte y formato, por medios fotográficos, cinematográficos o videográficos,iluminar espacios escénicos, determinando y controlando la calidad técnica formal y expresiva, filmar o grabar productos audiovisuales y a realizar la administración, gestión y comercialización en una pequeña empresa.
+		</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="imagen.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Imagen fotográfica</listitem>
+				<listitem>Aplicaciones fotográficas</listitem>
+				<listitem>Iluminación de espacios escénicos</listitem>
+				<listitem>Imagen audiovisual</listitem>
+				<listitem>Gestión de calidad de procesado y tratamiento fotográfico y cinematográfico</listitem>
+				<listitem>Administración, gestión y comercialización en la pequeña empresa</listitem>
+				<listitem>Medios fotográficos y audiovisuales</listitem>
+				<listitem>Medios y lenguajes de comunicación visual</listitem>
+				<listitem>Relaciones en el Entorno de Trabajo</listitem>
+				<listitem>Formación y Orientación Laboral</listitem>
+				<listitem>Formación en Centros de Trabajo (F.C.T.)</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico en cámara de video, televisión y cine</listitem>
+				<listitem>Técnico en iluminación de cine, video, televisión y espectáculos</listitem>
+				<listitem>Técnico en imagen</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Técnico en Realización de Audiovisuales y Espectáculos</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>En este ciclo aprenderás a coordinar el desarrollo de realizaciones de televisión, cine, espectáculos, representaciones escénicas y productos multimedia. Además, aprendes a montar, editar y postproducir.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="sony.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Realización en cine y vídeo</listitem>
+				<listitem>Realización en televisión</listitem>
+				<listitem>Realización en multimedia</listitem>
+				<listitem>Montaje/edición y postproducción de audiovisuales</listitem>
+				<listitem>Representaciones escénicas y espectáculos</listitem>
+				<listitem>Comunicación y expresión audiovisual</listitem>
+				<listitem>Sistemas técnicos de realización</listitem>
+				<listitem>Relaciones en el Entorno de Trabajo</listitem>
+				<listitem>Formación y Orientación Laboral</listitem>
+				<listitem>Formación en Centros de Trabajo (F.C.T.)</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico en realización de televisión</listitem>
+				<listitem>Técnico en dirección de cine</listitem>
+				<listitem>Secretario de rodaje</listitem>
+			    <listitem>Técnico en montaje cinematográfico</listitem>
+				<listitem>Técnico mezclador de vídeo y operador de postproducción</listitem>
+				<listitem>Auxiliar de transmisiones por satélite</listitem>
+			    <listitem>Operador de unidad móvil</listitem>
+				<listitem>Operador de steadycam</listitem>
+				<listitem>Rotulador</listitem>
+			    <listitem>Diseñador de grafismos</listitem>
+				<listitem>Script</listitem>
+				<listitem>Regidor</listitem>
+			    <listitem>Ayudante de realización</listitem>
+				<listitem>Realizador</listitem>
+				<listitem>Ayudante de dirección y director</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Sistemas de telecomunicación e informáticos</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Desarrollar, a partir de especificaciones técnicas y a su nivel los sistemas de telecomunicaciones (telefonía, radio y televisión), informáticos (monousuarios, multiusuarios y telemático) y de producción audiovisual, asegurando la operatividad y calidad de los servicios técnicos que prestan en las condiciones de normalización y evolución tecnológica y características del sector. Coordinar y supervisar la ejecución y el mantenimiento de dichos sistemas, optimizando los RR.HH.y medios disponibles, con la calidad requerida, en las condiciones de seguridad y de normalización vigentes y con los costes acordados.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="telecomunicaciones.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Sistemas operativos y lenguajes de programación</listitem>
+				<listitem>Sistemas de telefonía</listitem>
+				<listitem>Arquitectura de equipos y sistemas informáticos</listitem>
+				<listitem>Relaciones en el entorno de trabajo</listitem>
+				<listitem>Calidad</listitem>
+				<listitem>Seguridad en las instalaciones de telecomunicación e informáticas</listitem>
+				<listitem>Formación y orientación laboral</listitem>
+				<listitem>Sistemas de radio y televisión</listitem>
+				<listitem>Desarrollo de sistemas de telecomunicación e informáticos</listitem>
+				<listitem>Sistemas telemáticos</listitem>
+				<listitem>Gestión del desarrollo de sistemas de telecomunicación e informáticos</listitem>
+				<listitem>Administración, gestión y comercialización en la pequeña empresa</listitem>
+				<listitem>Formación en Centros de Trabajo (F.C.T.)</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico en telefonía</listitem>
+				<listitem>Técnico en redes locales y telemática</listitem>
+				<listitem>Técnico en centros de producción audiovisual</listitem>
+			    <listitem>Técnico de explotación de sistemas de radio y televisión</listitem>
+				<listitem>Técnico en retransmisiones y enlaces</listitem>
+				<listitem>Técnico en control central de sistemas de televisión</listitem>
+			    <listitem>Técnico en sistemas informáticos mono y multiusuario</listitem>
+				<listitem>Técnico en sistemas multimedia</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Sistemas Microinformáticos y redes</title>
+		<subtitle>Ciclo Medio </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Instalar, configurar y mantener sistemas microinformáticos, aislados o en red, así como redes locales en pequeños entornos, asegurando su funcionalidad y aplicando los protocolos de calidad, seguridad y respeto al medio ambiente establecidos.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="microinformaticos.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Montaje y mantenimiento de equipo</listitem>
+				<listitem>Sistemas operativos monopuesto</listitem>
+				<listitem>Aplicaciones ofimáticas</listitem>
+				<listitem>Sistemas operativos en red</listitem>
+				<listitem>Redes locales</listitem>
+				<listitem>Seguridad informática</listitem>
+				<listitem>Servicios en red</listitem>
+				<listitem>Aplicaciones web</listitem>
+				<listitem>Formación y orientación laboral</listitem>
+				<listitem>Empresa e iniciativa emprendedora</listitem>
+				<listitem>Formación en Centros de Trabajo (F.C.T)</listitem>
+				<listitem>Lengua extranjera del entorno profesional: Inglés</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico instalador-reparador de equipos informáticos</listitem>
+				<listitem>Técnicos de soporte informático</listitem>
+				<listitem>Técnico de redes de datos</listitem>
+			    <listitem>Reparador de periféricos de sistemas microinformados</listitem>
+				<listitem>Comercial de microinformática</listitem>
+				<listitem>Operador de tele-asistencia</listitem>
+			    <listitem>Operador de sistemas</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Administración de sistemas informáticos en red</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Configurar, administrar y mantener sistemas informáticos, garantizando la funcionalidad, la integridad de los recursos y servicios del sistema, con la calidad exigida y cumpliendo la reglamentación vigente.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="rack.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Implantación de sistemas operativos</listitem>
+				<listitem>Planificación y administración de redes</listitem>
+				<listitem>Fundamentos de hardware</listitem>
+				<listitem>Gestión de bases de datos</listitem>
+				<listitem>Lenguajes de marcas y sistemas de gestión de información</listitem>
+				<listitem>Administración de sistemas operativos</listitem>
+				<listitem>Servicios de red e Internet</listitem>
+				<listitem>Implantación de aplicaciones web</listitem>
+				<listitem>Administración de sistemas gestores de bases de datos</listitem>
+				<listitem>Seguridad y alta disponibilidad</listitem>
+				<listitem>Proyecto de administración de sistemas informáticos en red</listitem>
+				<listitem>Formación y orientación laboral</listitem>
+				<listitem>Empresa e iniciativa emprendedora</listitem>
+				<listitem>Formación en centros de trabajo (F.C.T)</listitem>
+				<listitem>Lengua extranjera del entorno profesional: Inglés 1 y 2</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Técnico en administración de sistemas</listitem>
+				<listitem>Responsable de informática</listitem>
+				<listitem>Técnico en servicios de Internet</listitem>
+			    <listitem>Técnico en servicios de mensajería electrónica</listitem>
+				<listitem>Personal de apoyo y soporte técnico</listitem>
+				<listitem>Técnico en teleasistencia</listitem>
+			    <listitem>Técnico en administración de base de datos</listitem>
+			    <listitem>Técnico de redes</listitem>
+				<listitem>Supervisor de sistemas</listitem>
+				<listitem>Técnico en servicios de comunicaciones</listitem>
+			    <listitem>Técnico en entornos web</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Desarrollo de aplicaciones multiplataforma</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Desarrollar, implantar, documentar y mantener aplicaciones informáticas multiplataforma, utilizando tecnologías y entornos de desarrollo específicos, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de «usabilidad» y calidad exigidas en los estándares establecidos.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="ipad.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Lenguajes de marcas y sistemas de gestión de información</listitem>
+				<listitem>Sistemas informáticos</listitem>
+				<listitem>Bases de Datos</listitem>
+				<listitem>Programación</listitem>
+				<listitem>Acceso a datos</listitem>
+				<listitem>Entornos de desarrollo</listitem>
+				<listitem>Desarrollo de interfaces</listitem>
+				<listitem>Programación multimedia y dispositivos móviles</listitem>
+				<listitem>Programación de servicios y procesos</listitem>
+				<listitem>Sistemas de gestión empresarial</listitem>
+				<listitem>Proyecto de desarrollo de aplicaciones multiplataforma</listitem>
+				<listitem>Formación y Orientación Laboral</listitem>
+				<listitem>Empresa e iniciativa emprendedora</listitem>
+				<listitem>Formación en centros de trabajo (F.C.T)</listitem>
+				<listitem>Lengua extranjera del entorno profesional: Inglés 1 y 2</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Desarrollar aplicaciones informáticas para la gestión empresarial y de negocio</listitem>
+				<listitem>Desarrollar aplicaciones informáticas de propósito general</listitem>
+				<listitem>Desarrollar aplicaciones en el ámbito del entretenimiento y la informática móvil. </listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>Desarrollo de aplicaciones web</title>
+		<subtitle>Ciclo Superior </subtitle>
+		<sect2><title>Duración: 2000 horas</title></sect2>
+		<sect2><title>Perfil profesional</title></sect2>
+        <para>Desarrollar, implantar, y mantener aplicaciones web, con independencia del modelo empleado y utilizando tecnologías específicas, garantizando el acceso a los datos de forma segura y cumpliendo los criterios de accesibilidad, usabilidad y calidad exigidas en los estándares establecidos.</para>
+        <para>
+            <inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="python.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+		<para>
+		<sect2><title>Módulos profesionales</title></sect2>
+		<itemizedlist>
+			    <listitem>Lenguajes de marcas y sistemas de gestión de información</listitem>
+				<listitem>Sistemas informáticos</listitem>
+				<listitem>Bases de Datos</listitem>
+				<listitem>Programación</listitem>
+				<listitem>Acceso a datos</listitem>
+				<listitem>Entornos de desarrollo</listitem>
+				<listitem>Desarrollo web en entorno cliente</listitem>
+				<listitem>Desarrollo web en entorno servidor</listitem>
+				<listitem>Despliegue de aplicaciones web</listitem>
+				<listitem>Diseño de interfaces WEB</listitem>
+				<listitem>Proyecto de desarrollo de aplicaciones web</listitem>
+				<listitem>Formación y Orientación Laboral</listitem>
+				<listitem>Empresa e iniciativa emprendedora</listitem>
+				<listitem>Formación en centros de trabajo (F.C.T)</listitem>
+				<listitem>Lengua extranjera del entorno profesional: Inglés 1 y 2</listitem>
+		</itemizedlist>
+		</para>
+
+		<para>
+		<sect2><title>Puestos de trabajo más relavantes:</title></sect2>
+		<itemizedlist>
+			    <listitem>Programador Web</listitem>
+				<listitem>Programador multimedia</listitem>
+				<listitem>Desarrollador de aplicaciones de entornos web</listitem>
+		</itemizedlist>
+		</para>
+    </sect1>
+
+	<sect1>
+        <title>¿Qué es la Formación Profesional?</title>
+        <subtitle>QUE ES LA FORMACIÓN PROFESIONAL</subtitle>
+        <para><inlinemediaobject>
+                <imageobject>
+                    <imagedata fileref="fp1.jpg" align="center"/>
+                </imageobject>
+            </inlinemediaobject>
+        </para>
+        <para>La Formación Profesional comprende el conjunto de acciones formativas que capacitan para el desempeño cualificado de las diversas profesiones, el acceso al empleo y la participación activa en la vida social, cultural y económica.
+        <emphasis role="bold">¿Cómo está organizada?</emphasis>
+        Los títulos de  Formación Profesional se agrupan en 26 familias profesionales, que responden a las necesidades demandadas por el sistema productivo y a una misma actividad productiva.
+ 
+		Dentro de cada familia profesional se incluyen un conjunto de ciclos formativos con una organización modular, de duración variable, constituidos por áreas de conocimiento teórico-prácticas en función de diversos campos profesionales.
+		 
+		Los Ciclos Formativos habitualmente, tienen una duración de dos cursos académicos, pueden ser:
+				<itemizedlist>
+						<listitem>Ciclos Formativos  de Grado Medio</listitem>
+						<listitem>Ciclos Formativos  de Grado Superior</listitem>
+				</itemizedlist>
+				Todos los ciclos formativos incluyen un módulo de Formación en Centros de Trabajo (FCT) cuyo objetivo es completar la adquisición de competencias profesionales propias de cada título alcanzadas en el centro educativo con una duración de 400 horas aproximadamente.
+		 
+		Además, en todos los ciclos formativos de grado superior y en algunos ciclos de grado medio,  se incluye un módulo profesional de Proyecto, de acuerdo con las características de la actividad laboral del ámbito del ciclo formativo, y que incluye aspectos relativos al ejercicio profesional y a la gestión empresarial.
+		<emphasis role="bold">¿Cómo se puede acceder?</emphasis>
+		Se puede acceder directamente si se poseen los requisitos de titulación. En caso contrario, se puede acceder mediante la realización de una prueba de acceso.
+		Grado Medio:
+		<itemizedlist>
+						<listitem><emphasis role="underline">Directamente:</emphasis> es necesario tener el título de Educación Secundaria Obligatoria o equivalente.</listitem>
+						<listitem><emphasis role="underline">Mediante prueba:</emphasis> Se requiere tener como mínimo 17 años cumplidos en el año de realización de la prueba.</listitem>
+				</itemizedlist>
+		Grado Superior:
+		<itemizedlist>
+						<listitem><emphasis role="underline">Directamente:</emphasis> es necesario tener el título de Bachiller o equivalente.</listitem>
+						<listitem><emphasis role="underline">Mediante prueba:</emphasis> Se requiere tener como mínimo 19 años, cumplidos en el año de realización de la prueba. Quienes tengan un título de Técnico relacionado con aquel al que se desea acceder, deberán tener como mínimo 18 años, cumplidos en el año de realización de la prueba.</listitem>
+				</itemizedlist>
+		<emphasis role="bold">¿En qué modalidades se puede estudiar?</emphasis>
+		<itemizedlist>
+						<listitem>Modalidad presencial ordinaria: por cursos completos, en horario diurno, vespertino  o nocturno.</listitem>
+						<listitem>Modalidad parcial: por módulos profesionales independientes, puede ser presencial, o a distancia.</listitem>
+						<listitem>Modalidad a distancia: en aquellos ciclos y módulos profesionales que se oferten.</listitem>
+				</itemizedlist>
+				
+		<emphasis role="bold">¿Dónde se puede estudiar?</emphasis>
+		Se puede estudiar en los Institutos de Educación Secundaria que impartan enseñanzas de Formación Profesional (IES), en los Institutos de Formación Profesional Específica (IFPE), y en general, en centros educativos públicos y privados autorizados para impartir estas enseñanzas.
+		 
+		<emphasis role="bold">¿Qué titulación se obtiene al terminar?</emphasis>
+		Título de Técnico de la correspondiente profesión, para quienes superen un ciclo formativo de grado medio.
+		Título de Técnico Superior de la correspondiente profesión, para quienes superen un ciclo formativo de grado superior.
+		</para>
+   </sect1>
+
+</article>

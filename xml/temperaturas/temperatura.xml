@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- prólogo del documento -->
+<!DOCTYPE informe SYSTEM "tiempo.dtd">
+<informe>
+	<fecha>9 de enero de 2012</fecha>
+	<hora>10:00</hora>
+	<zona>
+		<ciudad>Zaragoza</ciudad>
+		<region>Aragón</region>
+		<pais>España</pais>
+	</zona>
+	<mediciones>
+		<cielo>despejado</cielo>
+		<temperatura escala="C">8</temperatura>
+		<viento>
+			<direccion>NW</direccion>
+			<velocidad>5</velocidad>
+		</viento>
+	</mediciones>
+</informe>

@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alumnos>
+	<alumno>
+		<nombre>Alberto</nombre>
+    	<apellidos>González Catalán</apellidos>
+	    <fecha_nacimiento>30/08/1993</fecha_nacimiento>
+	    <asignaturas>
+	    	<asignatura>
+	    		<nombre>Programación</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Lenguaje de Marcas</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Sistemas Informáticos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Bases de datos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>FOL</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Inglés</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Entornos de desarrollo</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    </asignaturas>
+	    <matricula>2009113</matricula>
+	    <turno>Mañana</turno>
+	</alumno>
+    
+    <alumno>
+		<nombre>Sorin</nombre>
+    	<apellidos>Vleju</apellidos>
+	    <fecha_nacimiento>04/03/1990</fecha_nacimiento>
+	    <asignaturas>
+	    	<asignatura>
+	    		<nombre>Programación</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Lenguaje de Marcas</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Sistemas Informáticos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Bases de datos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>FOL</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Inglés</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Entornos de desarrollo</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    </asignaturas>
+	    <matricula>0987857</matricula>
+	    <turno>Mañana</turno>
+	</alumno>
+	
+	<alumno>
+		<nombre>Ulises</nombre>
+    	<apellidos>Freitas</apellidos>
+	    <fecha_nacimiento>11/11/1834</fecha_nacimiento>
+	    <asignaturas>
+	    	<asignatura>
+	    		<nombre>Programación</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Lenguaje de Marcas</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Sistemas Informáticos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Bases de datos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>FOL</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Inglés</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Entornos de desarrollo</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    </asignaturas>
+	    <matricula>87684</matricula>
+	    <turno>Mañana</turno>
+	</alumno>
+	
+	<alumno>
+		<nombre>Miguel</nombre>
+    	<apellidos>Merin Bernad</apellidos>
+	    <fecha_nacimiento>27/02/1992</fecha_nacimiento>
+	    <asignaturas>
+	    	<asignatura>
+	    		<nombre>Programación</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Lenguaje de Marcas</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Sistemas Informáticos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Bases de datos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>FOL</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Inglés</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Entornos de desarrollo</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    </asignaturas>
+	    <matricula>9868756</matricula>
+	    <turno>Mañana</turno>
+	</alumno>
+	
+	<alumno>
+		<nombre>Andrés</nombre>
+    	<apellidos>Cardenas</apellidos>
+	    <fecha_nacimiento>20/06/1989</fecha_nacimiento>
+	    <asignaturas>
+	    	<asignatura>
+	    		<nombre>Programación</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Lenguaje de Marcas</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Sistemas Informáticos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Bases de datos</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>FOL</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Inglés</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    	<asignatura>
+	    		<nombre>Entornos de desarrollo</nombre>
+	    		<nota>10</nota>
+	    	</asignatura>
+	    </asignaturas>
+	    <matricula>87553</matricula>
+	    <turno>Mañana</turno>
+	</alumno>
+</alumnos>

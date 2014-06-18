@@ -1,0 +1,15 @@
+<!ELEMENT informe (fecha, hora, zona, mediciones)>
+
+<!ELEMENT fecha (#PCDATA)>
+<!ELEMENT hora (#PCDATA)>
+<!ELEMENT zona (ciudad, region, pais)>
+<!ELEMENT ciudad (#PCDATA)>
+<!ELEMENT region (#PCDATA)>
+<!ELEMENT pais (#PCDATA)>
+<!ELEMENT mediciones (cielo, temperatura, viento)>
+<!ELEMENT cielo (#PCDATA)>
+<!ELEMENT temperatura (#PCDATA)>
+<!ELEMENT viento (direccion, velocidad)>
+<!ELEMENT direccion (#PCDATA)>
+<!ELEMENT velocidad (#PCDATA)>
+<!ELEMENT temperatura escala CDATA>

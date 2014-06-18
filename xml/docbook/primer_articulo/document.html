@@ -1,0 +1,50 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1"><title>Python: Lenguaje de alto nivel</title><link rel="stylesheet" type="text/css" href="style.css"><meta name="generator" content="DocBook XSL-NS Stylesheets V1.76.1"></head><body bgcolor="white" text="black" link="#0000FF" vlink="#840084" alink="#0000FF"><div class="article" title="Python: Lenguaje de alto nivel"><div class="titlepage"><div><div><h1 class="title"><a name="id479106"></a>Python: Lenguaje de alto nivel</h1></div><div><div class="author"><h3 class="author">Alberto González</h3><code class="email">&lt;<a class="email" href="mailto:alberto.abelabs@gmail.com">alberto.abelabs@gmail.com</a>&gt;</code></div></div></div><hr></div><div class="toc"><p><b>Table of Contents</b></p><dl><dt><span class="sect1"><a href="#id479073">¿Qué es Python?</a></span></dt><dt><span class="sect1"><a href="#id478936">¿Por qué Python?</a></span></dt><dt><span class="sect1"><a href="#id478829">Mi primer programa en python</a></span></dt><dt><span class="sect1"><a href="#id478809">Tipos básicos</a></span></dt><dt><span class="sect1"><a href="#id478588">Booleanos</a></span></dt></dl></div><div class="sect1" title="¿Qué es Python?"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id479073"></a>¿Qué es Python?</h2></div><div><h3 class="subtitle">Introducción</h3></div></div></div><p><span class="inlinemediaobject"><img src="tutorial-python.jpg" align="middle"></span>
+        </p><p><span class="bold"><strong>Python</strong></span> es un lenguaje de programación creado por
+            Guido van Rossum a principios de los años 90 cuyo nombre está inspirado en el grupo de
+            cómicos ingleses &#8220;Monty Python&#8221;. Es un lenguaje similar a Perl, pero con una sintaxis
+            muy limpia y que favorece un código legible. Se trata de un lenguaje interpretado o de
+            script, con tipado dinámico, fuertemente tipado, multiplataforma y orientado a objetos. </p></div><div class="sect1" title="¿Por qué Python?"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id478936"></a>¿Por qué Python?</h2></div></div></div><p>Python es un lenguaje que todo el mundo debería conocer. Su sintaxis simple, clara y
+            sencilla; el tipado dinámico, el gestor de memoria, la gran cantidad de librerías
+            disponibles y la potencia del lenguaje, entre otros, hacen que desarrollar una
+            aplicación en Python sea sencillo, muy rápido y, lo que es más importante, divertido. La
+            sintaxis de Python es tan sencilla y cercana al lenguaje natural que Introducción 9 los
+            programas elaborados en Python parecen pseudocódigo.</p><p>
+            <span class="inlinemediaobject"><img src="python-logo.gif" align="middle"></span>
+        </p><p>Por este motivo se trata además de uno de los mejores lenguajes para comenzar a
+            programar. Python no es adecuado sin embargo para la programación de bajo nivel o para
+            aplicaciones en las que el rendimiento sea crítico. Algunos casos de éxito en el uso de
+            Python son <span class="italic">Google, Yahoo, la NASA, Industrias Light
+                Magic</span>, y todas las distribuciones Linux, en las que Python cada vez
+            representa un tanto por ciento mayor de los programas disponibles.</p></div><div class="sect1" title="Mi primer programa en python"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id478829"></a>Mi primer programa en python</h2></div></div></div><p>Como comentábamos en el capítulo anterior existen dos formas de 
+            ejecutar código Python, bien en una sesión interactiva (línea a línea) 
+            con el intérprete, o bien de la forma habitual, escribiendo el código en 
+            un archivo de código fuente y ejecutándolo.
+            El primer programa que vamos a escribir en Python es el clásico Hola 
+            Mundo, y en este lenguaje es tan simple como:
+            </p><div class="blockquote"><blockquote class="blockquote">print &#8220;Hola Mundo&#8221;</blockquote></div><p>
+            Vamos a probarlo primero en el intérprete. Ejecuta python o ipython 
+            según tus preferencias, escribe la línea anterior y pulsa Enter.
+            El intérprete responderá mostrando en la consola el texto Hola Mundo.</p></div><div class="sect1" title="Tipos básicos"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id478809"></a>Tipos básicos</h2></div></div></div><p>En Python los tipos básicos se dividen en:</p><div class="itemizedlist"><ul class="itemizedlist" type="disc"><li class="listitem"><p>Números, como pueden ser 3 (entero), 15.57 (de coma flotante) o 7 + 5j
+                        (complejos)</p><p>Cadenas de texto, como &#8220;Hola Mundo&#8221; </p><p>Valores booleanos: True (cierto) y False (falso)</p></li></ul></div><p> Vamos a crear un par de variables a modo de ejemplo. Una de tipo cadena
+            y una de tipo entero: </p><div class="blockquote"><blockquote class="blockquote"># esto es una cadena</blockquote></div><div class="blockquote"><blockquote class="blockquote"> c =
+                &#8220;Hola Mundo&#8221;</blockquote></div><div class="blockquote"><blockquote class="blockquote"> # y esto es un entero</blockquote></div><div class="blockquote"><blockquote class="blockquote">
+                e = 23</blockquote></div><div class="blockquote"><blockquote class="blockquote"># podemos comprobarlo con la función
+                type</blockquote></div><div class="blockquote"><blockquote class="blockquote"> type(c)</blockquote></div><div class="blockquote"><blockquote class="blockquote"> type(e)</blockquote></div><p>
+            Como veis en Python, a diferencia de muchos otros lenguajes, no se declara el tipo de la
+            variable al crearla. En Java, por ejemplo, escribiríamos: </p><div class="blockquote"><blockquote class="blockquote">String c = &#8220;Hola
+                Mundo&#8221;; int e = 23;</blockquote></div><p> Este pequeño ejemplo también nos ha servido para
+            presentar los comentarios inline en Python: cadenas de texto que comienzan con el
+            carácter # y que Python ignora totalmente. Hay más tipos de comentarios, de los que
+            hablaremos más adelante. 
+        
+        </p></div><div class="sect1" title="Booleanos"><div class="titlepage"><div><div><h2 class="title" style="clear: both"><a name="id478588"></a>Booleanos</h2></div></div></div><p>Como decíamos al comienzo del capítulo una variable de tipo booleano sólo puede tener
+            dos valores: True (cierto) y False (falso). Estos valores son especialmente importantes
+            para las expresiones condicionales y los bucles, como veremos más adelante. En realidad
+            el tipo bool (el tipo de los booleanos) es una subclase del tipo int. Puede que esto no
+            tenga mucho sentido para tí si no conoces los términos de la orientación a objetos, que
+            veremos más adelante, aunque tampoco es nada importante. Estos son los distintos tipos
+            de operadores con los que podemos trabajar con valores booleanos, los llamados
+            operadores lógicos o condicionales: </p><div class="table"><a name="id479128"></a><p class="title"><b>Table 1. </b></p><div class="table-contents"><table summary="" border="1"><colgroup><col class="c1"><col class="c2"><col class="c3"></colgroup><thead><tr><th>Operador</th><th>Descripcion</th><th>Ejemplo</th></tr></thead><tbody><tr><td>and</td><td>¿se cumple a y b?</td><td>r = True and False # r es 
+                                False</td></tr><tr></tr><tr></tr><tr><td>or</td><td>¿se cumple a o b?</td><td>r = True or False  # r es 
+                                True</td></tr><tr><td>not</td><td>No a</td><td>r = not True  # r es 
+                                False</td></tr></tbody></table></div></div><p><br class="table-break"></p></div></div></body></html>

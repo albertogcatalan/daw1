@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<curso>
+    <nombre>ACTIVIDADES ADMINISTRATIVAS EN LA RELACIÓN CON EL CLIENTE</nombre>
+    <modalidad>Presencial</modalidad>
+    <alumnos>13</alumnos>
+    <horas>260</horas>
+    <localidad>Alagón</localidad>
+    <inicio>09/01/2012-10/04/2012</inicio>
+</curso>
+
+<curso>
+    <nombre>ACTIVIDADES DE VENTA I</nombre>
+    <modalidad>Presencial</modalidad>
+    <alumnos>13</alumnos>
+    <horas>310</horas>
+    <localidad>Zaragoza</localidad>
+    <inicio>23/01/2012-27/04/2012</inicio>
+</curso>
+
+<curso>
+    <nombre>Tove</nombre>
+    <modalidad>Presencial</modalidad>
+    <alumnos>Reminder</alumnos>
+    <horas>Don't forget me this weekend!</horas>
+    <localidad></localidad>
+    <inicio></inicio>
+</curso>
+
+<curso>
+    <nombre>ADMINISTRACIÓN DE REDES WIRELESS. CCNA WIRELESS.</nombre>
+    <modalidad>Presencial</modalidad>
+    <alumnos>15</alumnos>
+    <horas>70</horas>
+    <localidad>Zaragoza</localidad>
+    <inicio>23/01/2012-16/02/2012</inicio>
+</curso>
+
+<curso>
+    <nombre>ADMINISTRADOR DE BASE DE DATOS</nombre>
+    <modalidad>Presencial</modalidad>
+    <alumnos>15</alumnos>
+    <horas>410</horas>
+    <localidad>Zaragoza</localidad>
+    <inicio>09/01/2012-30/04/2012</inicio>
+</curso>

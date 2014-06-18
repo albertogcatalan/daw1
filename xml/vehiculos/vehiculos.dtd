@@ -1,0 +1,15 @@
+    <!ELEMENT ventas (vehiculo)+>
+    <!ELEMENT vehiculo (marca, tipo, combustible, potencia, matriculacion, puertas, color, cambio, precio, vendedor, foto)>
+    <!ELEMENT marca (#PCDATA)>
+    <!ATTLIST marca modelo CDATA #REQUIRED>
+    <!ELEMENT tipo (#PCDATA)>
+    <!ELEMENT combustible (#PCDATA)>
+    <!ELEMENT potencia (#PCDATA)>
+    <!ELEMENT matriculacion (#PCDATA)>
+    <!ELEMENT puertas (#PCDATA)>
+    <!ELEMENT color (#PCDATA)>
+    <!ELEMENT cambio (#PCDATA)>
+    <!ELEMENT precio (#PCDATA)>
+    <!ELEMENT vendedor (#PCDATA)>
+    <!ELEMENT foto (#PCDATA)>
+    <!ATTLIST foto url CDATA #IMPLIED>

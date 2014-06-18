@@ -1,0 +1,100 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+<title>Portfolio</title>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+<div id="container">
+<div id="header"><h1>Portfolio</h1></div>
+  <div id="wrapper">
+    <div id="content">
+      <p align="center"><strong>Formulario</strong></p>
+      <table border="0" align="center">
+	  <form>
+	  <tr>
+	  <td><label for="nombre">Nombre: </td>
+          <td><input type="text" name="nombre" id="nombre" value=""></td>
+          </tr>
+
+	  <tr>	
+	  <td><label for="email">Email: </td>
+          <td><input type="text" name="email" id="email" value=""></td>
+          </tr>
+
+          <tr>	
+	  <td><label for="email">Comentario: </td>
+          <td><textarea name="comment" id="comment" value=""></textarea></td>
+          </tr>
+
+          <tr>	
+	  <td><label for="selectorCorreo">Lista: </td>
+          <td><select name="selectorCorreo" id="selectorCorreo">
+			<option value="0">Unirse a la lista de correo</option>
+			<option value="1">No unirse</option>
+	      </select>
+          </td>
+          </tr>
+
+          <tr>	
+	  <td>Gustos personales: </td>
+          <td><input type="checkbox" name="deportes" id="deportes">Deportes<br/>
+	      <input type="checkbox" name="cine" id="cine">Cine<br/>
+              <input type="checkbox" name="musica" id="musica">Musica<br/>
+	      <input type="checkbox" name="internet" id="internet">Internet
+          </td>
+          </tr>
+
+          <tr>	
+	  <td>Edad: </td>
+          <td><input type="radio" value="mayor" name="edad" id="edad">Mayor de edad<br/>
+	      <input type="radio" value="menor" name="edad" id="edad">Menor de edad
+          </td>
+          </tr>
+
+          <tr>	
+	  <td><label for="selectorProvincia">Provincia: </label></td>
+          <td><select name="selectorProvincia" id="selectorProvincia">
+			<option value="0">Huesca</option>
+			<option value="1">Teruel</option>
+ 			<option value="2" selected>Zaragoza</option>
+	      </select>
+          </td>
+          </tr>
+		
+	  <tr>
+		<td><br/></td>
+		<td><br/></td>
+	  </tr>
+
+          <tr>	
+	  <td><input type="submit" name="botonOK" id="botonV" value="Enviar"></td>
+          <td><input type="reset" name="botonCancel" id="botonR" value="Cancelar"></td>
+          </tr>
+
+
+       </form>
+       </table>
+    </div>
+  </div>
+  <div id="navigation">
+    <p><strong>Menú</strong></p>
+    <ul>
+      <li><a href="index.html">Inicio</a></li>
+      <li><a href="tablas.html">Tablas</a></li>
+      <li><a href="#"><strong>Formulario</strong></a></li>
+      <li><a href="rst.html">Documentación RST</a></li>
+    </ul>
+  </div>
+  <div id="extra">
+    <p><strong>Contenido extra</strong></p>
+    <p>Este bloque esta preparadio para añadir enlaces a redes sociales, correo electronico, noticias o simplemente un banner de publicidad.</p>
+  	<img src="img/twitter.png" alt="twitter"><img src="img/linkedin.png" alt="linkedin"><img src="img/email.png" alt="email">
+  </div>
+  <div id="footer">
+    <p>Pie de página. Portfolio 2011.</p>
+  </div>
+</div>
+</body>
+</html>

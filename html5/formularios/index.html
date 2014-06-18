@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>index</title>
+		<meta name="description" content="" />
+		<meta name="author" content="Alberto" />
+		<meta name="viewport" content="width=device-width; initial-scale=1.0" />
+		<link rel="stylesheet"  href="style.css" /> 
+		<script type="text/javascript">
+		function alertValues()
+{
+alert("Customer information: " + "\n     " + fullname.value + "\n     "
+}</script>
+	</head>
+	<body>
+		<div>
+			
+			<div>
+			
+			<form id="orderForm" autocomplete="on"   action="javascript:alertValues();" method="get">
+			
+ 		<fieldset>
+ <legend> Perfil </legend>
+ <p>
+   <label>Nombre:
+     <input id="name" name="name" type="text" placeholder="Nombre de usuario" autofocus required size="50">
+  </label>
+</p>
+
+<p>
+   <label>Teléfono:
+     <input id="tel" name="telephone" type="tel" placeholder="Plantilla: 123121212" size="50" pattern="([0-9]{3}([0-9]{2})([0-9]{2})([0-9]{2}))">
+  </label>
+</p>
+
+<p>
+  <label>Email:
+    <input id="email" name="email" type="email" placeholder="Escriba su email" required size="50">
+  </label>
+</p>
+
+<p>
+  <label>Página Web:
+    <input type="url" size="20" name="website" placeholder="Página Web personal" pattern="https?://.+">
+  </label>
+</p>
+
+<p>
+    <label>Fecha de nacimiento: <input type="date">
+    </label>
+   </p>
+</fieldset>
+
+<fieldset>
+<legend> Sistema Operativo </legend>
+  <p>
+    <label>
+  <input type="text" name="favorites" list="os" required>
+  <datalist id="os">
+   <option value="Windows">
+   <option value="Mac OS">
+   <option value="Linux">
+   <option value="iOS">
+   <option value="Android">
+  </datalist>
+ </label>
+</p>
+<p>
+    <label>
+      Número de dispositivos: <input name="form_number" id="form_number" type="number" min="1" max="5" >
+    </label>
+  </p>
+</fieldset>
+
+<fieldset>
+ <legend> Subir avatar </legend>
+ <p>Sube una foto o varias para tu perfil.</p>
+   <p><label>
+     <input type="file" multiple="multiple" />
+   </label>
+ </p>
+</fieldset>
+
+<input type="submit" value="Crear cuenta"/> <input type="reset" value="Cancelar"/>
+</form>
+			</div>
+			<footer>
+				<p>
+					&copy; Copyright by Alberto
+				</p>
+			</footer>
+		</div>
+	</body>
+</html>

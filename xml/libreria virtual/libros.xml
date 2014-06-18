@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!-- libreria virtual -->
+<!DOCTYPE libro SYSTEM "libreria.dtd">
+<libro>
+  <titulo>El prisionero del cielo</titulo>
+  <disponible tiempo="10" unidad="1"></disponible>
+  <autor>Carlos Ruiz Zafón</autor>
+  <formato>Libro</formato>
+  <publicacion>11/2011</publicacion>
+  <precio cantidad="21" moneda="EUR"></precio>
+  <descuento cantidad="3"></descuento>
+  <enlacelibro href="http://www.fnac.es/"></enlacelibro>
+</libro>
